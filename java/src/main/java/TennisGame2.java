@@ -1,10 +1,12 @@
 /**
- * Completed 09-05-2023 by FJ Lessing
- * The following things were done to improve the code:
- * - I rewrote the class to make use of an internal class for more code safety and readability, and to get the solution as DRY as possible.
- * - I made use of absolute comparisons to reduce the amount of code and if statements.
- * - I declared helper functions to make the code more readable.
- * - I reduced the amount of comparisons done greatly to increase performance.
+ * <p>The following things were done to improve the code:</p>
+ * <ul>
+ *  <li>I rewrote the class to make use of an internal class for more code safety and readability, and to get the solution as DRY as possible.</li>
+ *  <li>I made use of absolute comparisons to reduce the amount of code and if statements.</li>
+ *  <li>I declared helper functions to make the code more readable.</li>
+ *  <li>I reduced the amount of comparisons done.</li>
+ * </ul>
+ * Completed <datetime>09-05-2023</datetime> by <b>FJ Lessing</b>
  */
 public class TennisGame2 implements TennisGame {
 
